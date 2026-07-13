@@ -49,13 +49,7 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-## 📊 GitHub Stats:
 
-![Lajeepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lajee-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=lajee-dev&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lajee-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=lajee-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
